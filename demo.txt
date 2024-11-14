@@ -4,3 +4,5 @@ Input 2 to admin-dr by admin
 
 Input 1 to collab-br by collaborator
 Input 2 to collab-br by collaborator
+
+Input 1 to main by admin, collaborator can start with this commit and continue on a new file and a new branch
