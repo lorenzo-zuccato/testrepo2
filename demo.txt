@@ -19,3 +19,5 @@ Input 3 to collab-br2 by collaborator, development continues regardless of the m
 
 Input 4 to main by admin, to be ignored by collaborator before a pull request
 
+Input 5 to main by admin, to be ruined by collaborator without a pull request
+
