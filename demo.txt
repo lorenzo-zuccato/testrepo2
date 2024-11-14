@@ -12,4 +12,5 @@ Input 2 to main by admin, to be stashed once
 
 Continue with input 2 to main by admin, collaborator needs to pull this before going forward
 
-Input 2 to collab-br2 by collaborator,‬ development continues after integrating latest version of main
+Input 2 to collab-br2 by collaborator, development continues after integrating latest version of main
+Input 3 to main by admin, to be integrated by collaborator before any pull request
