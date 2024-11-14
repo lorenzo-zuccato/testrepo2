@@ -1,3 +1,6 @@
 Input 1 to admin-dr by admin
 
 Input 2 to admin-dr by admin
+
+Input 1 to collab-br by collaborator
+Input 2 to collab-br by collaborator
