@@ -11,3 +11,5 @@ Input 1 to collab-br2 by collaborator, admin should take a look at this before g
 Input 2 to main by admin, to be stashed once
 
 Continue with input 2 to main by admin, collaborator needs to pull this before going forward
+
+Input 2 to collab-br2 by collaborator,‬ development continues after integrating latest version of main
