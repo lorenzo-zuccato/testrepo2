@@ -7,8 +7,10 @@ Input 2 to collab-br by collaborator
 
 Input 1 to main by admin, collaborator can start with this commit and continue on a new file and a new branch
 
+Input 1 to collab-br2 by collaborator, admin should take a look at this before going ahead
 Input 2 to main by admin, to be stashed once
 
 Continue with input 2 to main by admin, collaborator needs to pull this before going forward
 
+Input 2 to collab-br2 by collaborator, development continues after integrating latest version of main
 Input 3 to main by admin, to be integrated by collaborator before any pull request
